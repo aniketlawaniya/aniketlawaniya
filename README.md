@@ -12,3 +12,14 @@ I am an aspiring Web Developer, passionate about building intuitive and visually
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
+
+<br><br>
+
+## :dart: Find me Interesting? 
+**Say Hi to me on [LinkedIn](https://www.linkedin.com/in/aniketlawaniya/)** :heart: 
+
+#### Any Project you want me a part of ?
+
+ - 👀 Ping me on [Twitter](https://twitter.com/AniketLawania)
+
+ - 💌 [alawaniya3@gmail.com](mailto:alawaniya3@gmail.com)
